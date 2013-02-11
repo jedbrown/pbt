@@ -1,0 +1,4 @@
+= PBT: Parallel Builder and Tester
+
+PBT is (the start to) a parallel building and testing tool, with persistent index, flexible keyword tagging, and aggregation/analysis of results.
+The dependency graph is stored in sqlite and can be updated asynchronously.
